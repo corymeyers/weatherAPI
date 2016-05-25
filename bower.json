@@ -1,12 +1,12 @@
 {
-  "name": "journal",
+  "name": "googlemaps",
   "description": "",
   "main": "index.js",
   "authors": [
     "cory meyers <whippoorwill.in.flight@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/corymeyers/journal",
+  "homepage": "https://github.com/corymeyers/googleMaps",
   "ignore": [
     "**/.*",
     "node_modules",
